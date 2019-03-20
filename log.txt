@@ -1,0 +1,21 @@
+
+movie-this Coco
+
+
+    Title: Coco
+    Released: 2017
+    IMDB Rating: 8.4
+    Rotten Tomatos Rating: 97%
+    Country: USA
+    Language: English, Spanish
+    Plot: Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+    Actors: Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
+            
+spotify-this-song Dangerous
+
+
+    Artist: Juice WRLD
+    Track: Armed And Dangerous
+    Preview: null
+    Album: Goodbye & Good Riddance
+            
