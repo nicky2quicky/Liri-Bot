@@ -12,6 +12,8 @@ var spotify = new Spotify({
   id: env.SPOTIFY_ID,
   secret: env.SPOTIFY_SECRET
 });
+
+// Calling required packages to run the functions
 var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
@@ -29,7 +31,7 @@ array.splice(-1);
 
 var validSearch = array.join("");
 
-//Switch statement for the commands entered for movies, concert, spotify
+//Switch statement for the commands entered for movies, concert, spotify. Defining the commands in case and creating the functions below.
 switch (type) {
   case "movie-this":
     movieThis();
@@ -59,7 +61,7 @@ function movieThis() {
   if (validSearch === "") {
     validSearch = "mr+nobody";
   }
-
+// Calling axios OMBA
   axios
     .get(
       "http://www.omdbapi.com/?t=" +
