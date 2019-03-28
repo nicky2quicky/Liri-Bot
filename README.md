@@ -1,5 +1,6 @@
 # Liri-Bot
 Liri-Bot Repository HW
+(Screenshots included at the bottom)
 
 About Liri
 
@@ -57,3 +58,15 @@ Upon using the command "do-what-it-says" the Liri application will leverage FS t
 
 
 Attached in the repository are pictures of the Liri Application working
+
+Concert-This
+![Concert-This](concertthis.png)
+
+Movie-This
+![Movie-This](moviethis.png)
+
+Spotify-This
+![Spotify-This](spotifythis.png)
+
+Do-What-It-Says Screenshot
+![Do-What-It-Says Screenshot](dowhatitsays.png)
